@@ -6,4 +6,4 @@ Made from scratch for a final project in our subject.
 -- Aldrsze.
 ---
 ### Screenshots
-    ![Screenshot 1](screenshot/unicode-chess.jpg)
+![Chess screenshot](screenshot/unicode-chess.jpg)
